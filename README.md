@@ -31,7 +31,7 @@ v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can al
 
 Schematics                                                                                 |  Picture
 :-----------------------------------------------------------------------------------------:|:------------------------------------------------------:
-![alt text](<img src="resources/pics/alarmuino_tempsor_v.1.0_fritzing.jpg width="600" height="300")  |  ![alt text](resources/pics/alarmuino_tempsor_v.1.0_pic.jpg" width="600" height="300">)
+![alt text](<img src="resources/pics/alarmuino_tempsor_v.1.0_fritzing.jpg" width="600" height="300">)  |  ![alt text](resources/pics/alarmuino_tempsor_v.1.0_pic.jpg" width="600" height="300">)
 
 &nbsp;
 
