@@ -3,13 +3,15 @@
 ## An alarm clock with display, that can also be turned off by waving your hand over the motion sensor. 
 
 ### Product Evolution:
-###### v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can also be turned off by a motion sensor. (currently here)
+v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can also be turned off by a motion sensor. (currently here)
+&nbsp;
+&nbsp;
 
+* *This series of arduino projects is a basic configuration for [Tamadoro](https://github.com/synthline/Tamadoro), a device combining the functionality of Pomodoro and the fun of a Tamagotchi.*
+** *This project is a collection of other Arduino projects that were combined and tweaked. The list of the inspiration projects can be found both in the code as comments as well as a document under [resources](/resources).
 
-
-##### *\ *This series of arduino projects is a basic configuration for [Tamadoro](https://github.com/synthline/Tamadoro), a device combining the functionality of Pomodoro and the fun of a Tamagotchi.*
-##### *\
-
+&nbsp;
+&nbsp;
 
 **Hardware currently in use:**
 * Arduino UNO
@@ -22,6 +24,9 @@
 * 10k Potentiometer
 * DHT 11
 * PIR sensor - 120° 7m - 3,6-20Vdc (HC-SR501)
+
+&nbsp;
+&nbsp;
 
 ![alt text](resources/alarmuino_tempsor_v.1.0_fritzing.jpg)
 
