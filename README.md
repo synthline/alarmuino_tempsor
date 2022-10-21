@@ -28,8 +28,11 @@ v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can al
 
 &nbsp;
 &nbsp;
+Schematics                                                   |  Picture
+:-----------------------------------------------------------:|:------------------------------------------------------:
+![alt text](resources/alarmuino_tempsor_v.1.0_fritzing.jpg)  |  ![alt text](resources/alarmuino_tempsor_v.1.0_pic.jpg)
 
-![alt text](resources/alarmuino_tempsor_v.1.0_fritzing.jpg) ![alt text](resources/alarmuino_tempsor_v.1.0_pic.jpg)
+&nbsp;
 
 ### Note: The schematics are slighly different than the picture, but the pin allocations are the same. Changes were made to facilitate readibility.
 
