@@ -19,4 +19,7 @@ Hardware currently in use:
 - PIR sensor - 120° 7m - 3,6-20Vdc (HC-SR501)
 
 ![alt text](resources/alarmuino_tempsor_v.1.0_fritzing.jpg)
-![alt text]((resources/alarmuino_tempsor_v.1.0_pic.jpg))
+
+## The schematics are slighly different than the picture, but the pin allocations are the same. Changes were made to facilitate readibility.
+
+![alt text](resources/alarmuino_tempsor_v.1.0_pic.jpg)
