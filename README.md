@@ -1,10 +1,11 @@
 # Alarmuino Tempsor
 
-Alarm clock with display, that can be turned off by a motion sensor. 
+### Alarm clock with display, that can be turned off by a motion sensor. 
 
-Product Evolution:
-v1.0 - Simple LCD Alarm Clock
-v1.1 - LCD Alarm Clock that displays temperature and Humidity, and the alarm can be turned off by a motion sensor. (currently here)
+### Product Evolution:
+v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can also be turned off by a motion sensor. (currently here)
+
+### *This series of arduino projects is a basic configuration for Tamadoro, a device combining the functionality of Pomodoro and the fun of a Tamagotchi.
 
 Hardware currently in use:
 - Arduino UNO
