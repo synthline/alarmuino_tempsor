@@ -1,4 +1,4 @@
-# alarmuino_tempsor
+# Alarmuino Tempsor
 
 Alarm clock with display, that can be turned off by a motion sensor. 
 
