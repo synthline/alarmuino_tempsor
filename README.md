@@ -1,4 +1,4 @@
-<p style="text-align:center"> # Alarmuino Tempsor </p>
+# Alarmuino Tempsor
 
 ## An alarm clock with display, that can also be turned off by waving your hand over the motion sensor. 
 
