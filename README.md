@@ -18,5 +18,5 @@ Hardware currently in use:
 - DHT 11
 - PIR sensor - 120° 7m - 3,6-20Vdc (HC-SR501)
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](resources/alarmuino_tempsor_v.1.0_fritzing.jpg)
+![alt text]((resources/alarmuino_tempsor_v.1.0_pic.jpg))
