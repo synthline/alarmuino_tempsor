@@ -7,9 +7,9 @@ v1.0 - LCD Alarm Clock that displays temperature, humidity, and the alarm can al
 &nbsp;
 &nbsp;
 
-* *This series of arduino projects is a basic configuration for [Tamadoro](https://github.com/synthline/Tamadoro), a device combining the functionality of Pomodoro and the fun of a Tamagotchi.*
+* This series of arduino projects is a basic configuration for [Tamadoro](https://github.com/synthline/Tamadoro), a device combining the functionality of Pomodoro and the fun of a Tamagotchi.*
 &nbsp;
-* *This project is a collection of other Arduino projects that were combined and tweaked. The list of the inspiration projects can be found both in the code as comments as well as a document under [resources](/resources).
+* This project is a collection of other Arduino projects that were combined and tweaked. The list of the inspiration projects can be found both in the code as comments as well as a document under [resources](/resources).
 
 &nbsp;
 &nbsp;
