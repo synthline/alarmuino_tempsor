@@ -35,5 +35,5 @@ Schematics                                                        |  Picture
 
 &nbsp;
 
-### Note: The schematics are slighly different than the picture, but the pin allocations are the same. Changes were made to facilitate readibility.
+### Note: The schematics are slighly different than the picture, but the pin allocations are the same. The changes were made to facilitate readibility :). 
 
